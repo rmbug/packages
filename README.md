@@ -1,6 +1,6 @@
 # rmbug/packages
 
-Package repository for rmBug -- served at https://packages.rmbug.com
+Package repository for rmBug — served at https://packages.rmbug.com
 
 ## apt (Debian / Ubuntu)
 
@@ -25,4 +25,4 @@ EOF
 sudo dnf install rmbug-agent
 ```
 
-Packages are published automatically on each release from [rmbug/core](https://github.com/rmbug/core).
+Packages are updated automatically on each agent release.
