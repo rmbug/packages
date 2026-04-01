@@ -5,9 +5,9 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: rmBug package repository
-Date: Wed, 01 Apr 2026 05:45:40 UTC
+Date: Wed, 01 Apr 2026 10:29:19 UTC
 SHA256:
- cec17222b85e62ed9c982a9eb07dffb364a21284699bbce8ab4dc765ddd89c3f 468 main/binary-amd64/Packages
- 46cbb7c6af9d1c9c95ec5d94b923e18439921abaaec30d555dabd56e4d8b43a8 364 main/binary-amd64/Packages.gz
- dbdc7e0431cbbe4a123bb176280531ef0e73e78fdfeea90b73aa95b799c87991 438 main/binary-arm64/Packages
- 0739e0c5573f366008ca1619f6258c4df90e3aa3bd0c5a1ad658357eda037abe 345 main/binary-arm64/Packages.gz
+ 212769d3b6cae17093353c08a95145f0e090a2fdd729f273fc69492d55f294cf 468 main/binary-amd64/Packages
+ 0cc0c4fa08c889b15bde1c98254ca71479dd40d34dff014530e25151ae7b42de 363 main/binary-amd64/Packages.gz
+ d87141f36dee7e626883e9405ce497ccab0c64de0c2c977be42aa68e7aebe7a8 438 main/binary-arm64/Packages
+ 42c1e66f48835f70ff2436a3670d841e807e5a5751d1c286526dd60f5d81aa2b 350 main/binary-arm64/Packages.gz
