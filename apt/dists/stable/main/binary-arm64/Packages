@@ -1,13 +1,13 @@
 Package: rmbug-agent
-Version: 1.0.12
+Version: 1.0.13
 Architecture: arm64
 Maintainer: rmBug <support@rmbug.com>
 Installed-Size: 11776
-Filename: apt/pool/main/rmbug-agent_1.0.12_linux_arm64.deb
-Size: 4568542
-MD5sum: 95c48b4d21eda44f9a7927f05fcb1b3d
-SHA1: 86dbafc188c6a8d80c522011ee72d5df7517d74e
-SHA256: b559ef7058e21611f0e385c793ac0c44f6052afcff7c1ab0e02855eebf56f16d
+Filename: apt/pool/main/rmbug-agent_1.0.13_linux_arm64.deb
+Size: 4568530
+MD5sum: 8b88456f1c06c616cdd30378d558f49f
+SHA1: f803aaeebf51ca0906ed320917f73ed986eb7cdd
+SHA256: e8b101de8e12216a407cfce08c607af81a42177fc1d1dffa74199f1cc8b52eee
 Priority: optional
 Description: rmBug Agent — secure identity-based database access
 
