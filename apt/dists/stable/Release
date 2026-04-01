@@ -1,0 +1,13 @@
+Origin: rmBug
+Label: rmBug
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: rmBug package repository
+Date: Wed, 01 Apr 2026 01:39:15 UTC
+SHA256:
+ 3369489181f6f2a8380a4aead520c41cc9fd09188bad694a622a194c54be3a30 468 main/binary-amd64/Packages
+ 088b33757f0639afceeb353a55d8cebb1d60272816c8fc23801e2ecdd9bfa39d 364 main/binary-amd64/Packages.gz
+ d2814f5567ee1427de82a28b0af6338b3ed98ad7ec5602e9aedf011cf7d79eea 438 main/binary-arm64/Packages
+ d987e889bbeab0bc344a00cf668765d1ba1df57f2a9192818caf18a683e6a801 351 main/binary-arm64/Packages.gz

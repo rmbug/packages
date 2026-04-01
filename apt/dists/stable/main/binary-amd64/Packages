@@ -1,0 +1,14 @@
+Package: rmbug-agent
+Version: 1.0.10
+Architecture: amd64
+Maintainer: rmBug <support@rmbug.com>
+Installed-Size: 12580
+Filename: apt/pool/main/rmbug-agent_1.0.10_linux_amd64.deb
+Size: 5031526
+MD5sum: 80d15fc03763880c3a28eb91ca84d6cc
+SHA1: 8c4954c25dba0081bf752b3e865a9361650431e3
+SHA256: 6b372f1f00cdd842651cae125e2c701dd5be512dbeee4110d543bbff5409ef39
+Priority: optional
+Description: rmBug Agent — secure identity-based database access
+Architecture-Variant: amd64v1
+
